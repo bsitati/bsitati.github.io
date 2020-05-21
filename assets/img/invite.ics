@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+PRODID:-//Splash Event Planning System
+VERSION:2.0
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTAMP:20200518T220210Z
+UID:9bde8f4eeaa359631707b35b9da24c5083b856be@pathsfintech051
+ 820.splashthat.com
+URL:http://pathsfintech051820.splashthat.com
+DTSTART:20200518T230000Z
+DTEND:20200519T000000Z
+ORGANIZER;CN="Career Services":mailto:pathsfintech051820@spl
+ ash.events
+SUMMARY:Pave Your Pathway: FinTech Career Paths
+DESCRIPTION:For more information - http://pathsfintech051820
+ .splashthat.com
+LOCATION:Virtual - Zoom Link
+END:VEVENT
+END:VCALENDAR
